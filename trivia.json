@@ -1,0 +1,602 @@
+[
+  {
+    "ID": 1,
+    "question": "Which symbol is used to write a single-line comment in Python?",
+    "options": "A. // B. # C. /* D. --",
+    "answer": "B"
+  },
+  {
+    "ID": 2,
+    "question": "Which function is used to output text to the screen in Python?",
+    "options": "A. display() B. echo() C. print() D. output()",
+    "answer": "C"
+  },
+  {
+    "ID": 3,
+    "question": "How do you create a variable with the numeric value 5 in Python?",
+    "options": "A. x = 5 B. int x = 5 C. variable x = 5 D. num: 5",
+    "answer": "A"
+  },
+  {
+    "ID": 4,
+    "question": "Which data type is used to store text like 'Hello World'?",
+    "options": "A. int B. float C. str D. bool",
+    "answer": "C"
+  },
+  {
+    "ID": 5,
+    "question": "Which of the following is a correct file extension for Python files?",
+    "options": "A. .pt B. .pyt C. .py D. .p",
+    "answer": "C"
+  },
+  {
+    "ID": 6,
+    "question": "Which operator is used for multiplication in Python?",
+    "options": "A. X B. * C. # D. %",
+    "answer": "B"
+  },
+  {
+    "ID": 7,
+    "question": "How do you start a for loop in Python?",
+    "options": "A. for x in range(5): B. for (x = 0; x < 5; x++) C. loop x through 5: D. foreach x in 5:",
+    "answer": "A"
+  },
+  {
+    "ID": 8,
+    "question": "Which keyword is used to define a function in Python?",
+    "options": "A. func B. define C. def D. function",
+    "answer": "C"
+  },
+  {
+    "ID": 9,
+    "question": "What is the result of 10 % 3 in Python?",
+    "options": "A. 3 B. 1 C. 3.33 D. 10",
+    "answer": "B"
+  },
+  {
+    "ID": 10,
+    "question": "Which built-in function gets the length of a list or string in Python?",
+    "options": "A. size() B. length() C. len() D. count()",
+    "answer": "C"
+  },
+  {
+    "ID": 11,
+    "question": "How do you insert comments for multiple lines in Python?",
+    "options": "A. Using multiple # symbols on each line B. Using /* ... */ C. Using <-- ... --> D. Using // ... //",
+    "answer": "A"
+  },
+  {
+    "ID": 12,
+    "question": "Which of these values represents a boolean false in Python?",
+    "options": "A. False B. false C. FALSE D. nil",
+    "answer": "A"
+  },
+  {
+    "ID": 13,
+    "question": "Which method adds an item to the end of a list?",
+    "options": "A. add() B. append() C. push() D. insert()",
+    "answer": "B"
+  },
+  {
+    "ID": 14,
+    "question": "What does the input() function do in a terminal program?",
+    "options": "A. Prints text to the terminal B. Pauses the computer C. Gets text typed by the user D. Clears the screen",
+    "answer": "C"
+  },
+  {
+    "ID": 15,
+    "question": "Which keyword is used for conditional branching (if-else statements)?",
+    "options": "A. when B. case C. if D. check",
+    "answer": "C"
+  },
+  {
+    "ID": 16,
+    "question": "How do you correctly write an equal-to comparison in a Python if statement?",
+    "options": "A. = B. == C. := D. ===",
+    "answer": "B"
+  },
+  {
+    "ID": 17,
+    "question": "Which collection type is defined using square brackets []?",
+    "options": "A. Tuple B. Dictionary C. List D. Set",
+    "answer": "C"
+  },
+  {
+    "ID": 18,
+    "question": "Which collection type stores key-value pairs using curly braces {}?",
+    "options": "A. List B. Dictionary C. Tuple D. Array",
+    "answer": "B"
+  },
+  {
+    "ID": 19,
+    "question": "What is the correct way to write an \"and\" logical operator in Python?",
+    "options": "A. && B. and C. AND D. &",
+    "answer": "B"
+  },
+  {
+    "ID": 20,
+    "question": "Which keyword is used to exit or end a loop prematurely?",
+    "options": "A. stop B. exit C. break D. end",
+    "answer": "C"
+  },
+  {
+    "ID": 21,
+    "question": "Which operator is used for exponentiation (raising to a power) in Python?",
+    "options": "A. ^ B. ** C. pow D. ^^",
+    "answer": "B"
+  },
+  {
+    "ID": 22,
+    "question": "What is the output of print(type(10.5)) in Python?",
+    "options": "A. <class 'int'> B. <class 'str'> C. <class 'float'> D. <class 'double'>",
+    "answer": "C"
+  },
+  {
+    "ID": 23,
+    "question": "Which keyword is used to handle exceptions in a try block?",
+    "options": "A. catch B. except C. error D. handle",
+    "answer": "B"
+  },
+  {
+    "ID": 24,
+    "question": "Which operator performs floor division (division that rounds down to the nearest integer)?",
+    "options": "A. / B. % C. // D. \\",
+    "answer": "C"
+  },
+  {
+    "ID": 25,
+    "question": "What is the correct way to write a 'not equal' comparison in Python?",
+    "options": "A. != B. <> C. !== D. not=",
+    "answer": "A"
+  },
+  {
+    "ID": 26,
+    "question": "Which of the following is a valid variable name in Python?",
+    "options": "A. 2my_var B. my-var C. my_var D. my var",
+    "answer": "C"
+  },
+  {
+    "ID": 27,
+    "question": "How do you convert a float or string to an integer in Python?",
+    "options": "A. int() B. toInt() C. Integer() D. parse()",
+    "answer": "A"
+  },
+  {
+    "ID": 28,
+    "question": "Which statement is used to skip the rest of the current loop iteration and move to the next one?",
+    "options": "A. skip B. pass C. next D. continue",
+    "answer": "D"
+  },
+  {
+    "ID": 29,
+    "question": "Which data collection type is ordered, unchangeable (immutable), and allows duplicate values?",
+    "options": "A. List B. Tuple C. Dictionary D. Set",
+    "answer": "B"
+  },
+  {
+    "ID": 30,
+    "question": "What is the output of print(3 == 3.0) in Python?",
+    "options": "A. True B. False C. Error D. None",
+    "answer": "A"
+  },
+  {
+    "ID": 31,
+    "question": "Which method removes all elements from a list?",
+    "options": "A. delete() B. remove() C. clear() D. empty()",
+    "answer": "C"
+  },
+  {
+    "ID": 32,
+    "question": "How do you check if an item exists within a list or string?",
+    "options": "A. using the 'in' operator B. using the 'exists' keyword C. using contains() D. using find()",
+    "answer": "A"
+  },
+  {
+    "ID": 33,
+    "question": "Which string method converts all characters in a string to uppercase?",
+    "options": "A. upper() B. uppercase() C. toUpper() D. caps()",
+    "answer": "A"
+  },
+  {
+    "ID": 34,
+    "question": "What keyword is used to create an alternative conditional block when the 'if' condition fails?",
+    "options": "A. else if B. elif C. elseif D. otherwise",
+    "answer": "B"
+  },
+  {
+    "ID": 35,
+    "question": "Which method removes and returns the last element from a list?",
+    "options": "A. pop() B. remove() C. shift() D. discard()",
+    "answer": "A"
+  },
+  {
+    "ID": 36,
+    "question": "What is the correct way to write a multi-line string in Python?",
+    "options": "A. Using single quotes at each line end B. Using triple quotes (''' or \"\"\") C. Using \\m D. Using square brackets",
+    "answer": "B"
+  },
+  {
+    "ID": 37,
+    "question": "Which function allows you to get a sequence of numbers starting from 0 by default?",
+    "options": "A. sequence() B. loop() C. range() D. numbers()",
+    "answer": "C"
+  },
+  {
+    "ID": 38,
+    "question": "Which collection type does not allow duplicate elements and is unordered?",
+    "options": "A. List B. Set C. Tuple D. Dictionary",
+    "answer": "B"
+  },
+  {
+    "ID": 39,
+    "question": "What does print(\"Python\"[0]) output?",
+    "options": "A. P B. y C. n D. Error",
+    "answer": "A"
+  },
+  {
+    "ID": 40,
+    "question": "Which method removes the first occurrence of a specific value from a list?",
+    "options": "A. pop() B. delete() C. remove() D. discard()",
+    "answer": "C"
+  },
+  {
+    "ID": 41,
+    "question": "What is the output of print(bool(0)) in Python?",
+    "options": "A. True B. False C. None D. Error",
+    "answer": "B"
+  },
+  {
+    "ID": 42,
+    "question": "Which keyword is used to return a value from a function?",
+    "options": "A. output B. send C. give D. return",
+    "answer": "D"
+  },
+  {
+    "ID": 43,
+    "question": "What syntax is used to get the last item of a list named 'my_list'?",
+    "options": "A. my_list[-1] B. my_list[last] C. my_list[0] D. my_list.last()",
+    "answer": "A"
+  },
+  {
+    "ID": 44,
+    "question": "Which built-in function returns the highest value in an iterable or list?",
+    "options": "A. high() B. max() C. maximum() D. top()",
+    "answer": "B"
+  },
+  {
+    "ID": 45,
+    "question": "Which string method removes any whitespace from the beginning and the end?",
+    "options": "A. trim() B. strip() C. clean() D. cut()",
+    "answer": "B"
+  },
+  {
+    "ID": 46,
+    "question": "What is the default value returned by a function that doesn't explicitly have a return statement?",
+    "options": "A. 0 B. False C. None D. null",
+    "answer": "C"
+  },
+  {
+    "ID": 47,
+    "question": "Which operator is the logical OR operator in Python?",
+    "options": "A. || B. or C. OR D. |",
+    "answer": "B"
+  },
+  {
+    "ID": 48,
+    "question": "How do you add a new key-value pair to an existing dictionary named 'd'?",
+    "options": "A. d.add(key, value) B. d[key] = value C. d.put(key, value) D. d.insert(key, value)",
+    "answer": "B"
+  },
+  {
+    "ID": 49,
+    "question": "What is the output of print(5 // 2)?",
+    "options": "A. 2.5 B. 2 C. 3 D. 1",
+    "answer": "B"
+  },
+  {
+    "ID": 50,
+    "question": "Which method returns a list of all the keys present in a dictionary?",
+    "options": "A. keys() B. getKeys() C. keyList() D. names()",
+    "answer": "A"
+  },
+  {
+    "ID": 51,
+    "question": "What statement can be used as a placeholder in empty functions or loops to prevent errors?",
+    "options": "A. break B. pass C. continue D. void",
+    "answer": "B"
+  },
+  {
+    "ID": 52,
+    "question": "Which built-in function checks if an object is an instance of a specific class?",
+    "options": "A. checktype() B. isinstance() C. type() D. isclass()",
+    "answer": "B"
+  },
+  {
+    "ID": 53,
+    "question": "What happens when you multiply a string by an integer, like \"Hi\" * 3?",
+    "options": "A. It causes a TypeError B. It prints 'Hi' three times consecutively C. It raises a ValueError D. It multiplies the ASCII values",
+"answer": "B"
+},
+{
+"ID": 54,
+"question": "Which keyword is used to import a module into your Python script?",
+"options": "A. include B. require C. import D. load",
+"answer": "C"
+},
+{
+"ID": 55,
+"question": "Which function converts a numeric value or string into a floating-point number?",
+"options": "A. float() B. toFloat() C. double() D. num()",
+"answer": "A"
+},
+{
+"ID": 56,
+"question": "What is the slice syntax to get the first three items from a list named 'lst'?",
+"options": "A. lst[0,1,2] B. lst[:3] C. lst[1:3] D. lst[3:]",
+"answer": "B"
+},
+{
+"ID": 57,
+"question": "Which method splits a string into a list based on a separator?",
+"options": "A. split() B. divide() C. break() D. separate()",
+"answer": "A"
+},
+{
+"ID": 58,
+"question": "What is the output of print(len([]))?",
+"options": "A. 0 B. 1 C. None D. Error",
+"answer": "A"
+},
+{
+"ID": 59,
+"question": "Which method can safely fetch a value from a dictionary without throwing an error if the key doesn't exist?",
+"options": "A. fetch() B. get() C. find() D. locate()",
+"answer": "B"
+},
+{
+"ID": 60,
+"question": "Which operator is the logical negation (NOT) operator in Python?",
+"options": "A. ! B. not C. NOT D. ~",
+"answer": "B"
+},
+{
+"ID": 61,
+"question": "What built-in function returns the absolute value of a number?",
+"options": "A. abs() B. absolute() C. values() D. mag()",
+"answer": "A"
+},
+{
+"ID": 62,
+"question": "Which block is always executed after try and except blocks, regardless of whether an exception occurred?",
+"options": "A. final B. always C. finally D. complete",
+"answer": "C"
+},
+{
+"ID": 63,
+"question": "How do you find the index of the first occurrence of an item in a list?",
+"options": "A. index() B. find() C. locate() D. search()",
+"answer": "A"
+},
+{
+"ID": 64,
+"question": "What is the output of print(type(True))?",
+"options": "A. <class 'bool'> B. <class 'boolean'> C. <class 'int'> D. <class 'str'>",
+"answer": "A"
+},
+{
+"ID": 65,
+"question": "Which method sorts a list permanently in place?",
+"options": "A. sort() B. sorted() C. arrange() D. order()",
+"answer": "A"
+},
+{
+"ID": 66,
+"question": "What does the function built-in sum() do?",
+"options": "A. Adds all items in an iterable B. Multiplies all items C. Counts items D. Finds the average",
+"answer": "A"
+},
+{
+"ID": 67,
+"question": "Which string method replaces a specified phrase with another specified phrase?",
+"options": "A. change() B. replace() C. switch() D. modify()",
+"answer": "B"
+},
+{
+"ID": 68,
+"question": "How do you create an empty set in Python?",
+"options": "A. {} B. set() C. [] D. set([])",
+"answer": "B"
+},
+{
+"ID": 69,
+"question": "What is the index step syntax used to reverse a string 's' completely?",
+"options": "A. s[:-1] B. s[::-1] C. s[reverse] D. s[1:0:-1]",
+"answer": "B"
+},
+{
+"ID": 70,
+"question": "Which keyword is used to create user-defined classes in Python?",
+"options": "A. object B. class C. structure D. defclass",
+"answer": "B"
+},
+{
+"ID": 71,
+"question": "What is the output of print(2 * 3 + 4)?",
+"options": "A. 14 B. 10 C. 24 D. 9",
+"answer": "B"
+},
+{
+"ID": 72,
+"question": "Which dictionary method returns a view object of all key-value tuple pairs?",
+"options": "A. elements() B. items() C. values() D. pairs()",
+"answer": "B"
+},
+{
+"ID": 73,
+"question": "What built-in function returns a list sorted from an original iterable without altering it?",
+"options": "A. sort() B. sorted() C. order() D. arrange()",
+"answer": "B"
+},
+{
+"ID": 74,
+"question": "Which method checks if a string ends with a specific suffix?",
+"options": "A. checkend() B. endswith() C. ends() D. terminates()",
+"answer": "B"
+},
+{
+"ID": 75,
+"question": "What keyword is used to check if a specific key is absent from a dictionary?",
+"options": "A. not in B. absent C. missing D. except",
+"answer": "A"
+},
+{
+"ID": 76,
+"question": "What is the output of print(min(5, 2, 9))?",
+"options": "A. 5 B. 2 C. 9 D. 0",
+"answer": "B"
+},
+{
+"ID": 77,
+"question": "Which method inserts an element at a specified position index within a list?",
+"options": "A. add() B. append() C. insert() D. push()",
+"answer": "C"
+},
+{
+"ID": 78,
+"question": "Which module in Python provides access to mathematical functions like pi and sqrt?",
+"options": "A. mathematics B. math C. calc D. numbers",
+"answer": "B"
+},
+{
+"ID": 79,
+"question": "What is the output of print('a' + 'b')?",
+"options": "A. ab B. a b C. error D. elements",
+"answer": "A"
+},
+{
+"ID": 80,
+"question": "Which method returns a list of all values inside a dictionary?",
+"options": "A. keys() B. content() C. values() D. data()",
+"answer": "C"
+},
+{
+"ID": 81,
+"question": "What does a while loop do?",
+"options": "A. Runs a code block once B. Repeats code as long as a condition remains True C. Breaks automatically after 10 loops D. Defines a class structure",
+"answer": "B"
+},
+{
+"ID": 82,
+"question": "Which method joins elements of an iterable into one string using a specific delimiter?",
+"options": "A. combine() B. concat() C. join() D. merge()",
+"answer": "C"
+},
+{
+"ID": 83,
+"question": "What is the value of print(10 == 9)?",
+"options": "A. True B. False C. None D. Error",
+"answer": "B"
+},
+{
+"ID": 84,
+"question": "Which function can convert an integer or float into a string text format?",
+"options": "A. str() B. string() C. text() D. toString()",
+"answer": "A"
+},
+{
+"ID": 85,
+"question": "How do you find out the data type of an object in Python?",
+"options": "A. datatype() B. type() C. class() D. kind()",
+"answer": "B"
+},
+{
+"ID": 86,
+"question": "What does list(range(1, 4)) generate?",
+"options": "A. [1, 2, 3, 4] B. [1, 2, 3] C. [0, 1, 2, 3] D. [2, 3, 4]",
+"answer": "B"
+},
+{
+"ID": 87,
+"question": "Which method changes all characters in a string to lowercase?",
+"options": "A. lower() B. downcase() C. toLower() D. small()",
+"answer": "A"
+},
+{
+"ID": 88,
+"question": "What is the symbol used to separate items inside lists, tuples, or dictionaries?",
+"options": "A. ; B. : C. , D. .",
+"answer": "C"
+},
+{
+"ID": 89,
+"question": "Which method removes a specific item from a set?",
+"options": "A. pop() B. discard() C. extract() D. clear()",
+"answer": "B"
+},
+{
+"ID": 90,
+"question": "What is the result of print(float(5))?",
+"options": "A. 5 B. 5.0 C. 5.00 D. Error",
+"answer": "B"
+},
+{
+"ID": 91,
+"question": "Which keyword allows you to check multiple consecutive expressions after an initial 'if'?",
+"options": "A. else B. elseif C. elif D. check",
+"answer": "C"
+},
+{
+"ID": 92,
+"question": "What error is raised when you try to divide a number by zero in Python?",
+"options": "A. ValueError B. ZeroDivisionError C. TypeError D. NameError",
+"answer": "B"
+},
+{
+"ID": 93,
+"question": "Which built-in function returns a reversed iterator over a sequence?",
+"options": "A. reverse() B. reversed() C. flip() D. invert()",
+"answer": "B"
+},
+{
+"ID": 94,
+"question": "What is the output of print('abc'.isalpha())?",
+"options": "A. True B. False C. Error D. None",
+"answer": "A"
+},
+{
+"ID": 95,
+"question": "Which operator evaluates to True if the variables on either side point to the exact same object space?",
+"options": "A. == B. equal C. is D. in",
+"answer": "C"
+},
+{
+"ID": 96,
+"question": "What does print(type([])) display?",
+"options": "A. <class 'list'> B. <class 'tuple'> C. <class 'dict'> D. <class 'array'>",
+"answer": "A"
+},
+{
+"ID": 97,
+"question": "Which method adds elements of another iterable list to the end of the current list?",
+"options": "A. append() B. add() C. extend() D. plus()",
+"answer": "C"
+},
+{
+"ID": 98,
+"question": "What is the result of 2 ** 3 in Python?",
+"options": "A. 6 B. 8 C. 9 D. 5",
+"answer": "B"
+},
+{
+"ID": 99,
+"question": "Which string method returns True if all characters in the string are numeric digits?",
+"options": "A. isdigit() B. isnumber() C. isnumeric() D. checknum()",
+"answer": "A"
+},
+{
+"ID": 100,
+"question": "What is the purpose of the 'with' statement in file handling operations?",
+"options": "A. Loops through the file blocks B. Speeds up the program text C. Ensures files are securely closed automatically after execution D. Creates a hidden file clone",
+"answer": "C"
+}
+]
